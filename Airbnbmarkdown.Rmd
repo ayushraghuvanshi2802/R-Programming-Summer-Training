@@ -1,6 +1,6 @@
 ---
 title: "AirBnbMarkdown"
-author: "GauravKumar"
+author: "Ayush Raghuvanshi"
 date: "2024-07-9"
 output: html_document
 ---
