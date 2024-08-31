@@ -2,7 +2,7 @@
 #       AIRBNB DASHBOARD          #
 #                                 #
 # Case study: The French market   #
-# By Gaurav kumar                 #
+# By Ayush Raghuvanshi            #
 #                                 #
 ###################################
 
